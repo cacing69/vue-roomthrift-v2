@@ -1,3 +1,3 @@
 <template>
-    <router-view/>
+    HomeIndexPage.vue
 </template>
